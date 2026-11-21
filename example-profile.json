@@ -1,0 +1,8 @@
+{
+  "usb_id": "3434:0321",
+  "statuses": {
+    "working": {"effect": 17, "brightness": 96},
+    "waiting": {"effect": 2, "brightness": 96, "color": [0, 255], "speed": 64},
+    "done": {"effect": 7, "brightness": 96, "color": [0, 255], "speed": 110}
+  }
+}
